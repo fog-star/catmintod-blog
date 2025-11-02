@@ -1,0 +1,67 @@
+
+body {background-image: url('/Users/tim/Desktop/HTML/catmintod-blog/assets/img/stars.JPG');}
+nav {background-color: black; text-align: center;
+}
+#link1 {color: bisque;}
+
+div {
+    background-color: bisque;
+    margin-left: 50px;
+    margin-right:50px;
+    padding:50px;
+}
+
+.mainpic{
+    display:block;
+    margin: 0 auto;
+}
+
+h1{text-align: center;}
+p {
+    width: 600px;
+    margin: 0 auto;
+    text-align:justify;}
+
+#header{text-align: center;}
+p {
+    width: 600px;
+    margin: 0 auto;
+    text-align:justify;}
+
+#link2 {color: black;}
+#night {
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+    width: 300px;
+    }
+
+#iframe {
+    display: block;   
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 1px;
+    
+    }
+
+ul {
+    text-align: center;
+    list-style: none;
+}
+
+.about{
+    text-align:center;
+}
+
+#pics{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;  
+}
+
+#logo{
+    display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
